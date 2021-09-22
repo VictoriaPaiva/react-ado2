@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "expo-constants": "~11.0.2",
+    "react-native-paper": "3.6.0"
+  }
+}
