@@ -80,7 +80,7 @@ export default function App() {
   const [jsonData,setJsonData] = React.useState({})
 
   executeGet("https://my-json-server.typicode.com/VictoriaPaiva/react-ado2/db",setJsonData)
-  function meuItem({item}){
+  function teste({item}){
     return(
       <Pessoa player={item.idade} 
               name={item.nome}
@@ -90,10 +90,9 @@ export default function App() {
   return (
     <View style={styles.container}>
       <FlatList
-      //Data dados no formato json
         data={jsonData.data}
-        //criar a funcao meuItem em App
-        renderItem={meuItem}
+        
+        renderItem={teste}
         keyExtractor={item => item.id}
         ListHeaderComponent={Head}
       />
