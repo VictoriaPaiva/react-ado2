@@ -1,16 +1,12 @@
 {
-"data":
-[
-  {
-    "id": 1,
-    "logradouro": "Av. Jabaquara 9999"
-  },
-  {
-    "id": 2,
-    "logradouro": "Rua São Vicente"
-  },
-  {
-    "id": 3,
-    "logradouro": "AVenida Miguel"
-  }]
- }
+  "data": [
+    {
+      "idade": 1,
+      "nome": "Juliano"
+    },
+    {
+      "idade": 2,
+      "nome": "Miguel"
+    }
+  ]
+}
