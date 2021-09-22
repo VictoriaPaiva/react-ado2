@@ -2,25 +2,20 @@
   {
     "id": 1,
     "nome": "Juliana",
-    "completed": false
+    "idade": 1
   },
   {
     "id": 2,
     "nome": "Marcos",
-    "completed": false
+    "idade": 2
   },
   {
     "id": 3,
     "nome": "Andre",
-    "completed": false
+    "idade": 3
   },
   {
     "id": 4,
     "nome": "Guilherme",
-    "completed": true
-  },
-  {
-    "id": 5,
-    "nome": "Miguel",
-    "completed": false
+    "idade": 4
   }]
